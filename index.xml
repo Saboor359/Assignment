@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+<Sports>
+<cricket>
+<item1>Bat</item1>
+<item2>Ball</item2>
+<item3>Helmet</item3>
+</cricket>
+<football>
+
+
+<item1>Football</item1>
+<item2>T-shirt</item2>
+<item3>Shorts</item3>
+
+</football>
+</Sports>
+ <ElectronicAccessories>
+    <Camera>
+        <Nikon>
+            <Model>D5</Model>
+            <price>50000</price>
+        </Nikon>
+        <Canon>
+            <Model>D300</Model>
+            <price>40000</price>
+        </Canon>
+    </Camera>
+ </ElectronicAccessories>
+
+
+
+
+</store>
